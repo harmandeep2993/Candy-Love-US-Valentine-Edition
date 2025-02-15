@@ -32,7 +32,7 @@ Looking forward to improving with each challenge and learning from the amazing *
 
 ---
 ### 📢 **Let's Connect!**
-If you have feedback or ideas, feel free to connect with me on [LinkedIn](#).  
+If you have feedback or ideas, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmandeep/).  
 
 #DataViz #Tableau #MakeoverMonday #ValentinesCandy #DataStorytelling
 
