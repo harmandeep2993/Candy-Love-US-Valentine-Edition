@@ -1,6 +1,6 @@
 # Candy-Love-US-Valentine-Edition
-This dashboard explores the love of the USA for the candies on valentine'd Day. The dashboard was a part of of Makeovermonday2025 WK7.
-
+This dashboard was part of Makeovermonday2025 WK 7 challenge ehich explored the USA's love for the candies on valentine'd Day. The dataset was published on the makeovermonday weekly challenge website (https://makeovermonday.co.uk/). The dataset was csv.file which contained name of the state and their top three preferences of candies. 
+ 
 Overview
 This project visualizes the UK’s energy consumption trends in 2024 using weekly data from the National Grid. The dashboard highlights energy demand and its breakdown by source, including Fossil Fuels, Renewables, Other Sources, and Transfers.
 
